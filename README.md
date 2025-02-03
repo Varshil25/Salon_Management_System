@@ -48,6 +48,8 @@ Edit
 🔗 Admin Panel: [Shear Brilliance Admin](https://admin.orioniktechnologies.com/login)
 🔗 Customer Panel: [Shear Brilliance Customer](https://shear-brilliance-web-lvqt.onrender.com)
 
+https://github.com/user-attachments/assets/f87eeee0-121b-439c-9265-f8f426d7609e
+
 📜 License
 This project is proprietary and not open-source. Code is restricted per client requirements.
 
