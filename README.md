@@ -45,6 +45,7 @@ Edit
   ├── cron-jobs/     # Automated task scheduling  
   ├── utils/         # Utility functions  
   └── config/        # Configuration files  
+  
 🚀 Live Demo
 🔗 Admin Panel: [Shear Brilliance Admin](https://admin.orioniktechnologies.com/login)
 
