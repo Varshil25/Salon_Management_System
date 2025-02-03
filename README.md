@@ -46,6 +46,7 @@ Edit
   └── config/        # Configuration files  
 🚀 Live Demo
 🔗 Admin Panel: [Shear Brilliance Admin](https://admin.orioniktechnologies.com/login)
+
 https://github.com/user-attachments/assets/aed581bb-c496-4676-af72-2f4fa413ff93
 
 🔗 Customer Panel: [Shear Brilliance Customer](https://shear-brilliance-web-lvqt.onrender.com)
