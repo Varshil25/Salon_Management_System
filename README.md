@@ -1,6 +1,7 @@
-# Shear Brilliance Hair Studio 💈✨
+Shear Brilliance Hair Studio 💈✨
+Welcome to the Shear Brilliance Hair Studio project page! I am the backend developer working on this project, helping build the system that powers both the Admin and Customer panels.
 
-Welcome to the official page of **Shear Brilliance Hair Studio**. Below are the links to the admin and customer panels.
+Below are the links to both the admin and customer panels, along with an overview of the system and the technology used.
 
 ## 🚀 Live Admin Panel
 [Shear Brilliance Admin v2](https://admin.orioniktechnologies.com/login)
@@ -9,7 +10,7 @@ Welcome to the official page of **Shear Brilliance Hair Studio**. Below are the 
 [Shear Brilliance Customer](https://shear-brilliance-web-lvqt.onrender.com)
 
 ## Overview
-Shear Brilliance Admin Panel is a web-based administration interface for managing a salon management system. This platform provides salon administrators with tools to manage appointments, staff, services, and other salon operations.
+The Shear Brilliance Admin Panel is a web-based administration interface designed to manage the operations of a salon management system. It provides the salon administrators with tools to manage appointments, staff, services, and other salon operations.
 
 ## Features
 - 🔐 Secure Authentication System
